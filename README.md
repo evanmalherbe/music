@@ -44,41 +44,49 @@ This project uses:
 
 ## Installation
 
-This project was created mainly using HTML, CSS and Javascript, so it needs no special installation. Simply open the index.html file in your browser and enjoy.
+This project was created using HTML, CSS and Javascript, so it needs no special installation. Simply open the index.html file in your browser and enjoy.
 
 ## Usage
 
-Try out this music storage website by filling in the details of your favourite music tracks. See figure 1 below.
+1. Try out this music storage website by filling in the details of your favourite music tracks. See figure 1 below.
 
 ![Figure 1](images/screenshot1.png)
+Figure 1
 
-Once you have filled the info in to the boxes, click on the "Store Info" button to save your track. See figure 2 below.
+2. Once you have filled the info in to the boxes, click on the "Store Info" button to save your track. See figure 2 below.
 
 ![Figure 2](images/screenshot2.png)
+Figure 2
 
-You will see that your track info has been stored and is being displayed on the right side of the page. See figure 3 below.
+3. You will see that your track info has been stored and is being displayed on the right side of the page. See figure 3 below.
 
 ![Figure 3](images/screenshot3.png)
+Figure 3
 
-If you want to edit a track that you have stored, click on the dropdown menu above where the tracks are displayed and choose the name of the track you want to edit. See figure 4 below.
+4. If you want to edit a track that you have stored, click on the dropdown menu above where the tracks are displayed and choose the name of the track you want to edit. See figure 4 below.
 
 ![Figure 4](images/screenshot4.png)
+Figure 4
 
-Then click on the "Edit" button. See figure 5 below.
+5. Then click on the "Edit" button. See figure 5 below.
 
 ![Figure 5](images/screenshot5.png)
+Figure 5
 
-You will now see that you can edit/replace any of the information you had previously saved for this specific track. Fill in the info you wish to change, if any, and then click on the "Update" button when you are satisfied. See figure 6 below.
+6. You will now see that you can edit/replace any of the information you had previously saved for this specific track. Fill in the info you wish to change, if any, and then click on the "Update" button when you are satisfied. See figure 6 below.
 
 ![Figure 6](images/screenshot6.png)
+Figure 6
 
-If you want to delete a track that you have saved, click on the dropdown menu as before and choose the name of the artist. See figure 7 below.
+7. If you want to delete a track that you have saved, click on the dropdown menu as before and choose the name of the artist. See figure 7 below.
 
 ![Figure 7](images/screenshot7.png)
+Figure 7
 
-Then click on the "Delete" button to delete the track. You will see a small popup window that lets you know that the track has been delete successfully. See figure 8 below.
+8. Then click on the "Delete" button to delete the track. You will see a small popup window that lets you know that the track has been delete successfully. See figure 8 below.
 
 ![Figure 8](images/screenshot8.png)
+Figure 8
 
 ## Credits
 
