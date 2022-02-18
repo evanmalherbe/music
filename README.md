@@ -13,6 +13,8 @@ The Web Storage API allows us to store state information in two ways:
 1. sessionStorage stores state information for each given origin for as long as the browser is open.
 2. localStorage stores state information for each given origin even when the browser is closed and reopened.
 
+You can see the website online at [https://evanmalherbe.github.io/music/](https://evanmalherbe.github.io/music/).
+
 ## Table of Contents
 
 - [Instructions](#instructions)
@@ -25,7 +27,6 @@ The Web Storage API allows us to store state information in two ways:
 
 These were the instructions I was given to guide me:
 
-**Compulsory Task 1 - Music storage website**
 Follow these steps:
 
 - Create a webpage that can be used to let a user store information about a catalogue of music.
@@ -90,4 +91,4 @@ Figure 8
 
 ## Credits
 
-This project was created by Evan Malherbe as part of a task for HyperioDev Full Stack Development Bootcamp November 2021 [GitHub profile](https://github.com/evanmalherbe)
+This project was created by Evan Malherbe as part of a task for HyperionDev Full Stack Development Bootcamp November 2021 [GitHub profile](https://github.com/evanmalherbe)
